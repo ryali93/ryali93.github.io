@@ -1,8 +1,8 @@
-baseURL                   = "https://ryali93.github.io"
+baseURL                   = "https://ryali93.github.io/blog"
 builddrafts                = false
 languageCode               = "en-us"
 canonifyurls               = true
-#contentdir                 = "content"
+contentdir                 = "content"
 layoutdir                  = "layouts"
 publishdir                 = "docs"
 enableEmoji                = true
