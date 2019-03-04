@@ -1,4 +1,4 @@
-baseURL                   = "https://ryali93.github.io/blog"
+baseURL                   = "https://ryali93.github.io"
 builddrafts                = false
 languageCode               = "en-us"
 canonifyurls               = true
