@@ -1,7 +1,7 @@
 baseURL                   = "https://ryali93.github.io/blog"
 builddrafts                = false
 languageCode               = "en-us"
-canonifyurls               = true
+# canonifyurls               = true
 contentdir                 = "content"
 layoutdir                  = "layouts"
 publishdir                 = "docs"
