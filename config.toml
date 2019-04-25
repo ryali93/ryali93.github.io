@@ -11,7 +11,7 @@ summaryLength              = 200
 Paginate                   = 3
 
 theme                      = "AllinOne"
-title                      = "ryali93"
+title                      = "Roy Yali"
 
 pygmentsuseclasses         = true
 
@@ -65,7 +65,7 @@ pygmentsuseclasses         = true
   github                   = "//github.com/ryali93"
   linkedin                 = "//linkedin.com/in/ryali93"
   facebook                 = "//facebook.com/ryali93"
-  googleplus               = "//plus.google.com/u/0/103444698890916784040"
+  # googleplus               = "//plus.google.com/u/0/103444698890916784040"
   twitter                  = "//twitter.com/ryali93" 
   # px500                    = "//px500"
   # instagram                = "//instagram.com/you"
