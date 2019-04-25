@@ -18,17 +18,17 @@
   </url>
   
   <url>
+    <loc>https://ryali93.github.io/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ryali93.github.io/blog/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ryali93.github.io/blog/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryali93.github.io/blog/</loc>
     <priority>0</priority>
   </url>
   
