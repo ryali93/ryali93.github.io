@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Roy Yali Samaniego</title>
-    <link>/es/courses/</link>
-      <atom:link href="/es/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>/blog/es/courses/</link>
+      <atom:link href="/blog/es/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/blog/img/icon-192.png</url>
       <title>Courses</title>
-      <link>/es/courses/</link>
+      <link>/blog/es/courses/</link>
     </image>
     
     <item>
       <title>Overview</title>
-      <link>/es/courses/example/</link>
+      <link>/blog/es/courses/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/es/courses/example/</guid>
+      <guid>/blog/es/courses/example/</guid>
       <description>
 
 &lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;

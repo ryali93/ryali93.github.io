@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Roy Yali Samaniego</title>
-    <link>/es/authors/</link>
-      <atom:link href="/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/blog/es/authors/</link>
+      <atom:link href="/blog/es/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/blog/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/es/authors/</link>
+      <link>/blog/es/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/es/authors/admin/</link>
+      <link>/blog/es/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/es/authors/admin/</guid>
+      <guid>/blog/es/authors/admin/</guid>
       <description>&lt;p&gt;Roy Yali Samaniego (25) es ingeniero geógrafo de la Universidad Nacional Mayor de San Marcos;
 tiene experiencia en el sector público y privado en las disciplinas de geomática y
 ciencias atmosféricas. En la actualidad se desempeña como desarrollador GIS en el
@@ -35,9 +35,9 @@ el proyecto de &amp;ldquo;Identificación de Poblaciones Vulnerables&amp;rdquo;.
     
     <item>
       <title>Robert Ford</title>
-      <link>/es/authors/robert-ford/</link>
+      <link>/blog/es/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/es/authors/robert-ford/</guid>
+      <guid>/blog/es/authors/robert-ford/</guid>
       <description></description>
     </item>
     
