@@ -5,7 +5,7 @@
     <link>/blog/es/courses/</link>
       <atom:link href="/blog/es/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>ryali93 - 2019</copyright>
     <image>
       <url>/blog/img/icon-192.png</url>
       <title>Courses</title>
