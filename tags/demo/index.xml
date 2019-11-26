@@ -2,22 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Roy Yali Samaniego</title>
-    <link>/blog/tags/demo/</link>
-      <atom:link href="/blog/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/demo/</link>
+      <atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ryali93 - 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>ryali93 - 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/blog/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Demo</title>
-      <link>/blog/tags/demo/</link>
+      <link>/tags/demo/</link>
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>/blog/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/blog/project/external-project/</guid>
-      <description></description>
+      <title>Mapnews</title>
+      <link>/project/mapnews/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/mapnews/</guid>
+      <description>
+
+&lt;h1 id=&#34;map-news&#34;&gt;Map News&lt;/h1&gt;
+
+&lt;p&gt;(Debemos enfocarnos en hechos delictivos, desastres y huelgas.
+Omitir noticias relacionadas a política, deporte y espectáculos.)&lt;/p&gt;
+
+&lt;h2 id=&#34;descripción-de-la-aplicación&#34;&gt;Descripción de la aplicación.&lt;/h2&gt;
+
+&lt;p&gt;La aplicación que presentamos permite obtener información de las principales páginas web de periodicos de Perú correspondientes
+al apartado de sociedad, luego esta información obtenida es clasificada por categorías y mediante reconocimiento de entidades (NER)
+se ubican las entidades correspondientes a palabras que indiquen un lugar.
+A partir de tener las noticas con los lugares implicados en ella, se procede a ubicar estos eventos en un mapa, para lo cuál necesitamos
+asignar un par de coordenadas (X,Y) a estos lugares.
+Como producto final se muestra en un mapa los lugares donde ocurren las noticas correspondientes a una categoría, indicando además la fecha de la noticia.&lt;/p&gt;
+
+&lt;h2 id=&#34;usos-y-o-beneficios-de-la-aplicación&#34;&gt;Usos y/o Beneficios de la aplicación.&lt;/h2&gt;
+
+&lt;h3 id=&#34;social&#34;&gt;- Social&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Herramienta de consulta ciudadana para poder tomar medidas preventivas en zonas con existencia de eventos delictivos.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ser tomado en cuenta como una variable de análisis correspondiente al tema de seguridad para tomar decisiones sobre si
+es una zona adecuada para poner un negocio.&lt;/p&gt;
+
+&lt;h3 id=&#34;seguridad-ciudadana&#34;&gt;- Seguridad Ciudadana&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Relacionar el tipo de negocio existente y compararlo con la información de acontecimientos delictivos y definir si existe alguna relación.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Focalizar el establecimiento de puntos de combate a la delincuencia.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Planificación estratégica por parte de los municipios para el posicionamiento e implementación de cámaras de seguridad.&lt;/p&gt;
+
+&lt;h3 id=&#34;sector-salud&#34;&gt;-Sector Salud&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Herramienta de consulta para entidades de salud, postas, clínicas, hospitales, para ver si se requiere añadir o un profesional especialista que pueda tratar las emergencias
+para heridos de actividades delictivas o implementar procedimientos para controlar y/o estabilizar a los posibles heridos hasta que lleguen unidades especializadas.&lt;/p&gt;
+
+&lt;h3 id=&#34;sector-gubernamental&#34;&gt;-Sector gubernamental&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ya sea en el caso de crímenes, paros, reclamos o desastres naturales, esta herramienta permitirá consultar los hechos acontecidos en un lugar y poder tomar medidas preventivas
+que permitan reducir la cantidad de personas afectadas.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Notas suplementarias pueden ser agregadas aquí, incluyendo &lt;a href=&#34;https://github.com/ryali93/datascience_proj&#34; target=&#34;_blank&#34;&gt;código&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -2,32 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Roy Yali Samaniego</title>
-    <link>/blog/authors/</link>
-      <atom:link href="/blog/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ryali93.github.io/authors/</link>
+      <atom:link href="https://ryali93.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ryali93 - 2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>ryali93 - 2019</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/blog/img/icon-192.png</url>
+      <url>https://ryali93.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/blog/authors/</link>
+      <link>https://ryali93.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/blog/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/authors/admin/</guid>
-      <description>&lt;p&gt;Roy Yali Samaniego (25) is a geography engineer at the National University of San Marcos; He has experience in the public and private sectors in the disciplines of geomatics and atmospheric sciences. He currently works as GIS developer at the &lt;a href=&#34;http://www.ingemmet.gob.pe/&#34; target=&#34;_blank&#34;&gt;Geological, Metallurgical Mining Institute of Peru - INGEMMET&lt;/a&gt;  for &lt;a href=&#34;http://geocatmin.ingemmet.gob.pe/geocatmin/&#34; target=&#34;_blank&#34;&gt;GEOCATMIN&lt;/a&gt; projects and the &lt;a href=&#34;http://geocatminapp.ingemmet.gob.pe/bdgeocientifica&#34; target=&#34;_blank&#34;&gt;Geoscientific Database&lt;/a&gt; in geoprocessing automation and publication of Services using different technology applied to Geographic Information Systems. As an engineer, he was also part of the &amp;ldquo;Automated Segmentation in the Rural Area&amp;rdquo; for the 2017 National Population and Housing Census project, as part of the &lt;a href=&#34;https://www.inei.gob.pe/&#34; target=&#34;_blank&#34;&gt;National Institute of Statistics and Informatics - INEI&lt;/a&gt;.
-In science, he has carried out in the &lt;a href=&#34;https://www.senamhi.gob.pe/&#34; target=&#34;_blank&#34;&gt;National Meteorology and Hydrology Service - SENAMHI&lt;/a&gt; in projects such as the &amp;ldquo;Methodological proposal for the delimitation of basin headwaters&amp;rdquo; and &amp;ldquo;Optimization of the National Hydrological Network&amp;rdquo;. Similarly, he participated in water consolidation and prevention projects in the &lt;a href=&#34;http://www.ana.gob.pe&#34; target=&#34;_blank&#34;&gt;National Water Authority - ANA&lt;/a&gt;, highlighting the project of “Identification of Vulnerable Populations”.&lt;/p&gt;
+      <link>https://ryali93.github.io/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ryali93.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Roy Yali Samaniego (26) es ingeniero geógrafo de la Universidad Nacional Mayor de San Marcos;
+tiene experiencia en el sector público y privado en las disciplinas de geomática y
+ciencias atmosféricas. En la actualidad se desempeña como desarrollador GIS en el
+&lt;a href=&#34;http://www.ingemmet.gob.pe/&#34; target=&#34;_blank&#34;&gt;Instituto Geológico, Minero Metalúrgico de Perú - INGEMMET&lt;/a&gt;
+para los proyectos del &lt;a href=&#34;http://geocatmin.ingemmet.gob.pe/geocatmin/&#34; target=&#34;_blank&#34;&gt;GEOCATMIN&lt;/a&gt; y
+la &lt;a href=&#34;http://geocatminapp.ingemmet.gob.pe/bdgeocientifica/Modulos/Autentificacion/Login.aspx&#34; target=&#34;_blank&#34;&gt;Base de Datos Geocientífica&lt;/a&gt;
+en la automatización de geoprocesos y publicación de Servicios utilizando diferente tecnología aplicada a los
+Sistemas de Información Geográfica. Como desarrollador, también fue parte de la &amp;ldquo;Segmentación Automatizada en el Área Rural&amp;rdquo; para el proyecto del
+Censo Nacional de Población y Vivienda 2017, como parte del &lt;a href=&#34;https://www.inei.gob.pe/&#34; target=&#34;_blank&#34;&gt;Instituto Nacional de Estadística e Informática - INEI&lt;/a&gt;.
+En ciencias, ha participado en para el &lt;a href=&#34;https://www.senamhi.gob.pe/&#34; target=&#34;_blank&#34;&gt;Servicio Nacional de Meteorología e Hidrología - SENAMHI&lt;/a&gt; en proyectos como
+la &amp;ldquo;Propuesta metodológica para la delimitación de cabeceras de cuenca&amp;rdquo; y &amp;ldquo;Optimización de la Red Hidrológica Nacional&amp;rdquo;. De igual manera, participó en
+proyectos de afianzamiento hídrico y prevención en la &lt;a href=&#34;http://www.ana.gob.pe&#34; target=&#34;_blank&#34;&gt;Autoridad Nacional del Agua - ANA&lt;/a&gt;, resaltando
+el proyecto de &amp;ldquo;Identificación de Poblaciones Vulnerables&amp;rdquo;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>/blog/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/blog/authors/robert-ford/</guid>
-      <description></description>
     </item>
     
   </channel>

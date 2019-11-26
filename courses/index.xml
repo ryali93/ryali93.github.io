@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Roy Yali Samaniego</title>
-    <link>/blog/courses/</link>
-      <atom:link href="/blog/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ryali93.github.io/courses/</link>
+      <atom:link href="https://ryali93.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ryali93 - 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>ryali93 - 2019</copyright>
     <image>
-      <url>/blog/img/icon-192.png</url>
+      <url>https://ryali93.github.io/img/icon-192.png</url>
       <title>Courses</title>
-      <link>/blog/courses/</link>
+      <link>https://ryali93.github.io/courses/</link>
     </image>
     
     <item>
       <title>Overview</title>
-      <link>/blog/courses/example/</link>
+      <link>https://ryali93.github.io/courses/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/blog/courses/example/</guid>
+      <guid>https://ryali93.github.io/courses/example/</guid>
       <description>
 
 &lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;

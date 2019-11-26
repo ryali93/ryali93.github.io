@@ -3,616 +3,476 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/courses/example/example1/</loc>
+    <loc>https://ryali93.github.io/en/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/courses/example/example1/"
+                href="https://ryali93.github.io/courses/example/example1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/courses/example/example1/"
+                href="https://ryali93.github.io/en/courses/example/example1/"
                 />
   </url>
   
   <url>
-    <loc>/blog/courses/example/</loc>
+    <loc>https://ryali93.github.io/en/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/courses/example/"
+                href="https://ryali93.github.io/courses/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/courses/example/"
+                href="https://ryali93.github.io/en/courses/example/"
                 />
   </url>
   
   <url>
-    <loc>/blog/courses/example/example2/</loc>
+    <loc>https://ryali93.github.io/en/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/courses/example/example2/"
+                href="https://ryali93.github.io/courses/example/example2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/courses/example/example2/"
+                href="https://ryali93.github.io/en/courses/example/example2/"
                 />
   </url>
   
   <url>
-    <loc>/blog/talk/example/</loc>
+    <loc>https://ryali93.github.io/en/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/talk/example/"
+                href="https://ryali93.github.io/talk/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/talk/example/"
+                href="https://ryali93.github.io/en/talk/example/"
                 />
   </url>
   
   <url>
-    <loc>/blog/talk/</loc>
+    <loc>https://ryali93.github.io/en/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/talk/"
+                href="https://ryali93.github.io/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/talk/"
+                href="https://ryali93.github.io/en/talk/"
                 />
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://ryali93.github.io/en/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/"
+                href="https://ryali93.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="https://ryali93.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>/blog/post/</loc>
+    <loc>https://ryali93.github.io/en/post/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/post/"
+                href="https://ryali93.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post/"
+                href="https://ryali93.github.io/en/post/"
                 />
   </url>
   
   <url>
-    <loc>/blog/post/writing-technical-content/</loc>
+    <loc>https://ryali93.github.io/en/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/post/writing-technical-content/"
+                href="https://ryali93.github.io/post/writing-technical-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post/writing-technical-content/"
+                href="https://ryali93.github.io/en/post/writing-technical-content/"
                 />
   </url>
   
   <url>
-    <loc>/blog/authors/admin/</loc>
+    <loc>https://ryali93.github.io/en/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/authors/admin/"
+                href="https://ryali93.github.io/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/authors/admin/"
+                href="https://ryali93.github.io/en/authors/admin/"
                 />
   </url>
   
   <url>
-    <loc>/blog/publication_types/3/</loc>
+    <loc>https://ryali93.github.io/en/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/publication_types/3/"
+                href="https://ryali93.github.io/publication_types/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/publication_types/3/"
+                href="https://ryali93.github.io/en/publication_types/3/"
                 />
   </url>
   
   <url>
-    <loc>/blog/publication/preprint/</loc>
+    <loc>https://ryali93.github.io/en/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/publication/preprint/"
-                />
   </url>
   
   <url>
-    <loc>/blog/authors/</loc>
+    <loc>https://ryali93.github.io/en/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/authors/"
+                href="https://ryali93.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/authors/"
+                href="https://ryali93.github.io/en/authors/"
                 />
   </url>
   
   <url>
-    <loc>/blog/publication_types/</loc>
+    <loc>https://ryali93.github.io/en/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/publication_types/"
+                href="https://ryali93.github.io/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/publication_types/"
+                href="https://ryali93.github.io/en/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>/blog/publication/</loc>
+    <loc>https://ryali93.github.io/en/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/publication/"
+                href="https://ryali93.github.io/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/publication/"
+                href="https://ryali93.github.io/en/publication/"
                 />
   </url>
   
   <url>
-    <loc>/blog/tags/source-themes/</loc>
+    <loc>https://ryali93.github.io/en/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/tags/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/tags/source-themes/"
-                />
   </url>
   
   <url>
-    <loc>/blog/tags/</loc>
+    <loc>https://ryali93.github.io/en/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/tags/"
+                href="https://ryali93.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/tags/"
+                href="https://ryali93.github.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>/blog/post/jupyter/</loc>
+    <loc>https://ryali93.github.io/en/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/post/jupyter/"
+                href="https://ryali93.github.io/post/jupyter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post/jupyter/"
+                href="https://ryali93.github.io/en/post/jupyter/"
                 />
   </url>
   
   <url>
-    <loc>/blog/slides/</loc>
+    <loc>https://ryali93.github.io/en/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/slides/"
+                href="https://ryali93.github.io/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/slides/"
+                href="https://ryali93.github.io/en/slides/"
                 />
   </url>
   
   <url>
-    <loc>/blog/slides/example/</loc>
+    <loc>https://ryali93.github.io/en/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/slides/example/"
+                href="https://ryali93.github.io/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/slides/example/"
+                href="https://ryali93.github.io/en/slides/example/"
                 />
   </url>
   
   <url>
-    <loc>/blog/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/privacy/"
-                />
+    <loc>https://ryali93.github.io/en/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/terms/"
-                />
+    <loc>https://ryali93.github.io/en/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/tags/deep-learning/</loc>
+    <loc>https://ryali93.github.io/en/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryali93.github.io/en/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryali93.github.io/en/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/tags/deep-learning/"
+                href="https://ryali93.github.io/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/tags/deep-learning/"
+                href="https://ryali93.github.io/en/project/"
                 />
   </url>
   
   <url>
-    <loc>/blog/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/tags/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/tags/demo/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/project/external-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/project/external-project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/project/internal-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/project/internal-project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/tags/academic/</loc>
+    <loc>https://ryali93.github.io/en/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/tags/academic/"
+                href="https://ryali93.github.io/tags/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/tags/academic/"
+                href="https://ryali93.github.io/en/tags/academic/"
                 />
   </url>
   
   <url>
-    <loc>/blog/post/getting-started/</loc>
+    <loc>https://ryali93.github.io/en/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/post/getting-started/"
+                href="https://ryali93.github.io/post/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post/getting-started/"
+                href="https://ryali93.github.io/en/post/getting-started/"
                 />
   </url>
   
   <url>
-    <loc>/blog/categories/</loc>
+    <loc>https://ryali93.github.io/en/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/categories/"
+                href="https://ryali93.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/categories/"
+                href="https://ryali93.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/blog/categories/demo/</loc>
+    <loc>https://ryali93.github.io/en/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/categories/demo/"
+                href="https://ryali93.github.io/categories/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/categories/demo/"
+                href="https://ryali93.github.io/en/categories/demo/"
                 />
   </url>
   
   <url>
-    <loc>/blog/publication_types/2/</loc>
+    <loc>https://ryali93.github.io/en/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/publication_types/2/"
-                />
   </url>
   
   <url>
-    <loc>/blog/publication/journal-article/</loc>
+    <loc>https://ryali93.github.io/en/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/publication/journal-article/"
-                />
   </url>
   
   <url>
-    <loc>/blog/authors/robert-ford/</loc>
+    <loc>https://ryali93.github.io/en/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/authors/robert-ford/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/authors/robert-ford/"
-                />
   </url>
   
   <url>
-    <loc>/blog/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://ryali93.github.io/en/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/post/2015-07-23-r-rmarkdown/"
+                href="https://ryali93.github.io/post/2015-07-23-r-rmarkdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/post/2015-07-23-r-rmarkdown/"
+                href="https://ryali93.github.io/en/post/2015-07-23-r-rmarkdown/"
                 />
   </url>
   
   <url>
-    <loc>/blog/tags/plot/</loc>
+    <loc>https://ryali93.github.io/en/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/tags/plot/"
+                href="https://ryali93.github.io/tags/plot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/tags/plot/"
+                href="https://ryali93.github.io/en/tags/plot/"
                 />
   </url>
   
   <url>
-    <loc>/blog/categories/r/</loc>
+    <loc>https://ryali93.github.io/en/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/categories/r/"
+                href="https://ryali93.github.io/categories/r/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/categories/r/"
+                href="https://ryali93.github.io/en/categories/r/"
                 />
   </url>
   
   <url>
-    <loc>/blog/tags/r-markdown/</loc>
+    <loc>https://ryali93.github.io/en/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/tags/r-markdown/"
+                href="https://ryali93.github.io/tags/r-markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/tags/r-markdown/"
+                href="https://ryali93.github.io/en/tags/r-markdown/"
                 />
   </url>
   
   <url>
-    <loc>/blog/tags/regression/</loc>
+    <loc>https://ryali93.github.io/en/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/tags/regression/"
+                href="https://ryali93.github.io/tags/regression/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/tags/regression/"
+                href="https://ryali93.github.io/en/tags/regression/"
                 />
   </url>
   
   <url>
-    <loc>/blog/publication_types/1/</loc>
+    <loc>https://ryali93.github.io/en/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/publication_types/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/publication_types/1/"
-                />
   </url>
   
   <url>
-    <loc>/blog/publication/conference-paper/</loc>
+    <loc>https://ryali93.github.io/en/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/blog/es/publication/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/publication/conference-paper/"
-                />
   </url>
   
   <url>
-    <loc>/blog/courses/</loc>
+    <loc>https://ryali93.github.io/en/courses/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/blog/es/courses/"
+                href="https://ryali93.github.io/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/courses/"
+                href="https://ryali93.github.io/en/courses/"
                 />
   </url>
   
