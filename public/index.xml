@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryali93! :tada: on ryali93</title>
+    <link>https://ryali93.github.io/</link>
+    <description>Recent content in Ryali93! :tada: on ryali93</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Roy Yali Samaniego</copyright>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ryali93.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>https://ryali93.github.io/blog/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryali93.github.io/blog/</guid>
+      <description>Coming soon&amp;hellip;</description>
+      
+    </item>
+    
+    <item>
+      <title>Chameleon</title>
+      <link>https://ryali93.github.io/projects/chameleon/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryali93.github.io/projects/chameleon/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ryali93.github.io/projects/chameleon/featured.png" />
+    </item>
+    
+    <item>
+      <title>Law-Game</title>
+      <link>https://ryali93.github.io/projects/lawgame/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryali93.github.io/projects/lawgame/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ryali93.github.io/projects/lawgame/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>CloudSen12</title>
+      <link>https://ryali93.github.io/projects/cloudsen12/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryali93.github.io/projects/cloudsen12/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ryali93.github.io/projects/cloudsen12/featured.gif" />
+    </item>
+    
+    <item>
+      <title>Deforestation dashboard</title>
+      <link>https://ryali93.github.io/projects/deforestation/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryali93.github.io/projects/deforestation/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ryali93.github.io/projects/deforestation/featured.png" />
+    </item>
+    
+    <item>
+      <title>About me!</title>
+      <link>https://ryali93.github.io/aboutme/</link>
+      <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
+      
+      <guid>https://ryali93.github.io/aboutme/</guid>
+      <description>What I do  I have been programming code for more than a decade, and I am still learning and dedicating myself to it, mainly in the field of geoinformatics.</description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://ryali93.github.io/resume/</link>
+      <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
+      
+      <guid>https://ryali93.github.io/resume/</guid>
+      <description>Experience     Company Link Role Dates Location      University of Salamanca Geoinformatic researcher 11/2022 - Present Avila
+Spain    National University of San Marcos Assistant professor 03/2019 - 01/2021 Lima</description>
+      
+    </item>
+    
+    <item>
+      <title>Water Balance</title>
+      <link>https://ryali93.github.io/projects/water_balance/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryali93.github.io/projects/water_balance/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ryali93.github.io/projects/water_balance/featured.png" />
+    </item>
+    
+    <item>
+      <title>RGEE</title>
+      <link>https://ryali93.github.io/projects/rgee/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryali93.github.io/projects/rgee/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ryali93.github.io/projects/rgee/featured.png" />
+    </item>
+    
+    <item>
+      <title>Thesis degree</title>
+      <link>https://ryali93.github.io/projects/thesis_degree/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryali93.github.io/projects/thesis_degree/</guid>
+      <description>Modelo de erosión Rusle y coeficiente de aporte de sedimentos (SDR) para la estimación del volumen muerto de reservorios #  Acceso al documento
+Ante una creciente población, el recurso hídrico lleva a la necesidad de crear almacenes que sean de utilidad para los meses donde escasee este recurso.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ryali93.github.io/projects/thesis_degree/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Rural Segmentation</title>
+      <link>https://ryali93.github.io/projects/rural_segment/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryali93.github.io/projects/rural_segment/</guid>
+      <description>El objetivo general del proyecto de Censos Nacionales (CPV2017) es contar con información actualizada de las actividades realizadas en los procesos de Segmentación. Como parte de este proceso, la primera parte corresponde a una actualización cartográfica y registro de viviendas y establecimientos, para lo cual se requiere lo siguiente:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ryali93.github.io/projects/rural_segment/featured.png" />
+    </item>
+    
+    <item>
+      <title>Sediment yield</title>
+      <link>https://ryali93.github.io/projects/sediment_yield/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryali93.github.io/projects/sediment_yield/</guid>
+      <description>El presente producto servirá de insumo para la planificación de los recursos hídricos y será una herramienta en el marco del programa de presas. Los temas revisados son los siguientes:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ryali93.github.io/projects/sediment_yield/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/blog/</loc>
+            <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/projects/chameleon/</loc>
+            <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/projects/lawgame/</loc>
+            <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/projects/</loc>
+            <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/</loc>
+            <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://ryali93.github.io/es/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://ryali93.github.io/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/projects/cloudsen12/</loc>
+            <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/projects/deforestation/</loc>
+            <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/aboutme/</loc>
+            <lastmod>2022-06-13T20:55:37+01:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/resume/</loc>
+            <lastmod>2022-06-13T20:55:37+01:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/projects/water_balance/</loc>
+            <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/projects/rgee/</loc>
+            <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/projects/thesis_degree/</loc>
+            <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/projects/rural_segment/</loc>
+            <lastmod>2017-10-31T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/projects/sediment_yield/</loc>
+            <lastmod>2016-10-31T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/tags/advanced/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://ryali93.github.io/tags/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+</urlset>

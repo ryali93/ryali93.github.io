@@ -1,0 +1,31 @@
+languageCode = "es"
+languageName = "Spanish"
+weight = 1
+title = "ryali93"
+
+[params]
+  displayName = "ES"
+  isoCode = "es"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/ryali93-transparent.png"
+  # secondaryLogo = "PATH"
+  description = "Desarrollador GIS, Analista de datos espaciales, Ingeniero Geógrafo"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Ryali93"
+  # image = "img/ryali93.png"
+  image = "img/face.jpeg"
+  headline = "Desarrollador GIS, Analista de datos espaciales, Ingeniero Geógrafo"
+  bio = "Desarrollador GIS, Analista de datos espaciales, Ingeniero Geógrafo"
+  links = [
+    { twitter = "https://twitter.com/ryali93" },
+    { linkedin = "https://www.linkedin.com/in/ryali93" },
+    { email = "ryali93@gmail.com" },
+    # { whatsapp = "+51953527306" },
+    { orcid = "https://orcid.org/0000-0003-4542-3755" },
+    { github = "https://github.com/ryali93" },
+  ]
+
+  

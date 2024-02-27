@@ -1,0 +1,53 @@
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 10
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 15
+
+[[main]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 20
+
+# [[main]]
+#   name = "Teaching"
+#   pageRef = "teaching"
+#   weight = 25
+
+[[main]]
+  name = "About Me"
+  pageRef = "aboutme"
+  weight = 30
+
+# [[main]]
+#   identifier = "twitter"
+#   pre = "twitter"
+#   url = "https://twitter.com/ryali93"
+#   weight = 200
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/ryali93"
+  weight = 400
+
+# [[main]]
+#  identifier = "orcid"
+#  pre = "orcid"
+#  url = "https://orcid.org/0000-0003-4542-3755"
+#  weight = 300
+
+# [[footer]]
+#    name = "Tags"
+#    pageRef = "tags"
+#    weight = 10
+
+[[footer]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 20
+

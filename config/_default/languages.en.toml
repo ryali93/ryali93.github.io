@@ -1,0 +1,32 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "ryali93"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/ryali93-transparent.png"
+  # secondaryLogo = "PATH"
+  description = "GIS Developer | Spatial data scientist | Geographical Engineering"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Roy Yali Samaniego"
+  # image = "img/ryali93.png"
+  image = "img/face.jpeg"
+  headline = "GIS Developer | Spatial data scientist | Geographical Engineering"
+  bio = "GIS Developer | Spatial data scientist | Geographical Engineering"
+  links = [
+    { twitter = "https://twitter.com/ryali93" },
+    { linkedin = "https://www.linkedin.com/in/ryali93" },
+    { email = "ryali93@gmail.com" },
+    # { whatsapp = "+51 953527306" },
+    { orcid = "https://orcid.org/0000-0003-4542-3755" },
+    { github = "https://github.com/ryali93" }
+  ]
+
+  
+  
