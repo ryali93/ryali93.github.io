@@ -1,0 +1,19 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#0b1a1d"/>
+  <rect x="72" y="70" width="1056" height="620" rx="22" fill="#10282d" stroke="#2e5559"/>
+  <path d="M72 486C218 396 344 410 488 482C633 555 780 542 919 470C1008 424 1089 434 1128 468" stroke="#54d8b0" stroke-opacity=".35" stroke-width="3"/>
+  <path d="M72 552C218 462 344 476 488 548C633 621 780 608 919 536C1008 490 1089 500 1128 534" stroke="#7eb6e4" stroke-opacity=".28" stroke-width="3"/>
+  <path d="M72 420C218 330 344 344 488 416C633 489 780 476 919 404C1008 358 1089 368 1128 402" stroke="#f2bd65" stroke-opacity=".28" stroke-width="3"/>
+  <circle cx="898" cy="238" r="130" fill="#54d8b0" fill-opacity=".13"/>
+  <circle cx="898" cy="238" r="82" fill="#7eb6e4" fill-opacity=".16"/>
+  <path d="M804 238h188M898 144v188" stroke="#edf7f4" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M338 174l112 58l-38 122l-138 15l-70-105z" fill="#1e4f50" stroke="#54d8b0" stroke-width="4"/>
+  <path d="M236 298l102-124l62 142l-126 53z" fill="#74c69d" fill-opacity=".75"/>
+  <path d="M450 232l84 64l-122 58z" fill="#7eb6e4" fill-opacity=".72"/>
+  <rect x="116" y="114" width="520" height="52" rx="10" fill="#071114"/>
+  <rect x="116" y="190" width="296" height="22" rx="11" fill="#54d8b0"/>
+  <rect x="116" y="230" width="408" height="18" rx="9" fill="#d5e4df" fill-opacity=".62"/>
+  <rect x="116" y="262" width="336" height="18" rx="9" fill="#d5e4df" fill-opacity=".42"/>
+  <text x="120" y="148" fill="#edf7f4" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="800">Earth Observation Notes</text>
+  <text x="120" y="650" fill="#54d8b0" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">papers · datasets · reproducibility</text>
+</svg>

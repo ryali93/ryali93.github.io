@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Roy Yali Samaniego"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/ryali93-transparent.png"
+  description = "Geocomputing & GeoAI researcher building spatial data systems for Earth Observation, GIS software and applied innovation."
+
+[author]
+  name = "Roy Yali Samaniego"
+  image = "img/face.jpeg"
+  headline = "Geocomputing & GeoAI Researcher · Earth Observation · GIS Software · Applied Innovation"
+  bio = "I work at the intersection of geocomputing, GeoAI, Earth Observation and GIS software, building reproducible research and usable spatial data systems."
+  links = [
+    { github = "https://github.com/ryali93" },
+    { orcid = "https://orcid.org/0000-0003-4542-3755" },
+    { linkedin = "https://www.linkedin.com/in/ryali93" },
+    { email = "ryali93@gmail.com" }
+  ]

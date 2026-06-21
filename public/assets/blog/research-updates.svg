@@ -1,0 +1,20 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#081316"/>
+  <rect x="74" y="72" width="1052" height="616" rx="24" fill="#102226" stroke="#304a52"/>
+  <rect x="134" y="132" width="388" height="118" rx="14" fill="#132f34" stroke="#54d8b0" stroke-opacity=".42"/>
+  <rect x="134" y="280" width="388" height="118" rx="14" fill="#132f34" stroke="#7eb6e4" stroke-opacity=".42"/>
+  <rect x="134" y="428" width="388" height="118" rx="14" fill="#132f34" stroke="#f2bd65" stroke-opacity=".42"/>
+  <path d="M566 190h392M566 338h392M566 486h392" stroke="#edf7f4" stroke-opacity=".18" stroke-width="3"/>
+  <path d="M608 610c88-72 176-72 264 0c72 58 150 58 214 0" stroke="#54d8b0" stroke-opacity=".38" stroke-width="4"/>
+  <circle cx="610" cy="190" r="14" fill="#54d8b0"/>
+  <circle cx="722" cy="338" r="14" fill="#7eb6e4"/>
+  <circle cx="842" cy="486" r="14" fill="#f2bd65"/>
+  <rect x="166" y="164" width="184" height="18" rx="9" fill="#54d8b0"/>
+  <rect x="166" y="200" width="278" height="16" rx="8" fill="#d5e4df" fill-opacity=".54"/>
+  <rect x="166" y="312" width="226" height="18" rx="9" fill="#7eb6e4"/>
+  <rect x="166" y="348" width="292" height="16" rx="8" fill="#d5e4df" fill-opacity=".54"/>
+  <rect x="166" y="460" width="206" height="18" rx="9" fill="#f2bd65"/>
+  <rect x="166" y="496" width="246" height="16" rx="8" fill="#d5e4df" fill-opacity=".54"/>
+  <text x="566" y="150" fill="#edf7f4" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="850">Research Updates</text>
+  <text x="566" y="650" fill="#a7bbb7" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">courses · releases · talks · notebooks</text>
+</svg>

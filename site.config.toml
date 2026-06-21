@@ -1,0 +1,29 @@
+[sections]
+hero = true
+education = true
+organizations = true
+expertise = true
+mindmap = true
+geocv = true
+projects = true
+blogPreview = true
+publications = true
+
+[pages]
+blog = false
+personal = true
+
+[features]
+languageToggle = true
+themeToggle = true
+contactButton = true
+geojsonDownload = true
+linkedinShare = true
+
+[defaults]
+language = "en"
+theme = "dark"
+
+[content]
+blogSource = "hugo-drafts/content/blog"
+blogPreviewLimit = 3
